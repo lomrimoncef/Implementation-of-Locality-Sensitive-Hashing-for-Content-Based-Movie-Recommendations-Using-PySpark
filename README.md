@@ -71,5 +71,23 @@ We analyze the trade-offs between <strong>accuracy</strong> and <strong>efficien
 <li><strong>LSH:</strong> Much faster, minor accuracy trade-off.</li>
 <li><strong>Tradeoff:</strong> Acceptable precision-recall loss vs significant computational speedup.</li>
 </ul>
+<br>
+    <br><br><hr>
+<img src="images/0.png"   height="500">
+<br>
+    <br><br><hr>
+<img src="images/1-1.png"   height="500">
+<br>
+    <br><br><hr>
+<img src="images/1.png"   height="500">
+<br>
+    <br><br><hr>
+<img src="images/2.png"   height="500">
+<br>
+    <br><br><hr>
+<img src="images/3.png"   height="500">
+<br>
+    <br><br><hr>
+<img src="images/4.png"   height="500">
 
 
